@@ -1,0 +1,169 @@
+ACM Proceedings - Annual International Conference on Mobile Computing and Networking
+ACM Proceedings - Annual Symposium on Computational Geometry
+ACM Proceedings - Annual Symposium on Discrete Algorithms
+ACM SIGACT - SIGACT News
+ACM Transactions on Algorithms
+ACM Transactions on Database Systems
+ACM Transactions on Embedded Computing Systems
+ACM Transactions on Information and System Security
+ACM Transactions on Mathematical Software
+ACM Transactions on Programming Languages and Systems
+ACM Transactions on Software Engineering and Methodology
+Ad Hoc 
+ Sensor Wireless Networks
+Advances in Engineering Software
+Algorithmica
+Annals of Mathematics and Artificial Intelligence
+Annals of the Institute of Statistical Mathematics
+Applicable Algebra in Engineering, Communication and Computing
+Application Research of Computers / Ji Suan Ji Ying Yong Yan Jiu / 
+Artificial Intelligence in Engineering
+Artificial Intelligence Review
+BIT
+Chicago Journal of Theoretical Computer Science
+Combinatorica
+Combinatorics, Probability 
+ Computing
+Communications in Numerical Methods in Engineering
+Complexity
+Computational Geometry
+Computational Statistics
+Computational Statistics 
+ Data Analysis
+Computer and Modernization / Ji Suan Ji Yu Xian Dai Hua / 
+Computer Integrated Manufacturing Systems / Ji Suan Ji Ji Cheng Zhi Zao Xi Tong
+Computer Languages
+Computer Standards 
+ Interfaces
+Computers 
+ Electrical Engineering
+Computers 
+ Geosciences
+Computers 
+ Graphics
+Computing
+Computing and Visualization in Science
+Concurrency and Computation: Practice and Experience
+Concurrency: Practice and Experience
+Control and Intelligent Systems
+Data Mining and Knowledge Discovery
+Discrete 
+ Computational Geometry
+Discrete Mathematics and Applications
+Distributed Computing
+Dynamics of Continuous Discrete and Impulsive Systems: Series B; Applications and Algorithms
+ELCVIA - Electronic Letters on Computer Vision and Image Analysis
+Electronic Journal of Combinatorics
+Electronic Transactions on Numerical Analysis
+Engineering Applications of Artificial Intelligence
+Engineering Computations
+EURASIP Journal on Embedded Systems
+Evolutionary Computation
+Experimental Mathematics
+Expert Systems
+Finite Elements in Analysis and Design
+Finite Fields and Their Applications
+Fundamenta Informaticae
+Future Generation Computer Systems
+GeoInformatica
+IEEE Transactions on Circuits and Systems for Video Technology
+IEEE Transactions on Circuits and Systems Part II: Analog and Digital Signal Processing
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IEEE Transactions on Evolutionary Computation
+IEEE Transactions on Intelligent Transportation Systems
+IEICE - Transactions on Fundamentals of Electronics, Communications and Computer Sciences
+IMA Journal of Numerical Analysis
+Information Retrieval
+Information Sciences
+INFORMS Journal on Computing
+Integration, the VLSI Journal
+Integrative Medicine
+International Journal of Adaptive Control and Signal Processing
+International Journal of Computational Geometry and Applications
+International Journal of Computational Models and Algorithms in Medicine (IJCMAM)
+International Journal of Computational Systems Engineering
+International Journal of Computer Vision
+International Journal of Embedded Systems
+International Journal of Experimental Algorithms (IJEA)
+International Journal of High Performance Computing Applications
+International Journal of Hybrid Intelligent Systems
+International Journal of Imaging Systems and Technology
+International Journal of Knowledge-Based and Intelligent Engineering Systems
+International Journal of Metaheuristics (IJMHeur)
+International Journal of Parallel Programming
+International Journal of Reliability, Quality and Safety Engineering
+International Journal of Speech Technology
+International Journal of Swarm Intelligence and Evolutionary Computation
+International Journal of Theoretical and Applied Finance
+Inventi Impact: Algorithm
+ISPRS Journal of Photogrammetry and Remote Sensing
+Jisuanji Gongcheng / Computer Engineering
+Jisuanji Xuebao / Chinese Journal of Computers
+Journal of Algorithms
+Journal of Applied Mathematics
+Journal of Atmospheric and Oceanic Technology
+Journal of Combinatorics
+Journal of Combinatorics
+Journal of Computational and Applied Mathematics
+Journal of Computer and System Sciences
+Journal of Computer Applications / Jisuan Ji Ying Yong / 
+Journal of Computer Research and Development / Jisuan Ji Yan Jiu Yu Fan Zhan
+Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences)
+Journal of Discrete Algorithms
+Journal of Global Optimization
+Journal of Graph Algorithms and Applications
+Journal of Graph Theory
+Journal of Heuristics
+Journal of Inverse and Ill-Posed Problems
+Journal of Knot Theory and Its Ramifications
+Journal of Modern Applied Statistical Methods
+Journal of Molecular Graphics and Modelling
+Journal of Nonlinear Science
+Journal of Process Control
+Journal of Supercomputing, The
+Journal of the ACM
+Machine Learning
+Machine Vision and Applications
+Mathematical Modelling and Analysis
+Mathematics and Computers in Simulation
+Medecine de Catastrophe - Urgences Collectives
+Medical Update for Psychiatrists
+Microelectronics 
+ Computer / Wei Dian Zi Xue Yu Ji Suan Ji / 
+Minimicro Systems (Shenyang)
+Moscow University Mathematics Bulletin
+Multibody System Dynamics
+Neural Computing 
+ Applications
+New Generation Computing
+Numerical Algorithms
+Operations Research Letters
+Optimization and Engineering
+Parallel Algorithms and Applications
+Parallel Processing Letters
+Pattern Analysis 
+ Applications
+Proceedings of the IASTED International Conference on Parallel and Distributed Computing and Systems
+Proceedings of the International Symposium on Parallel Architectures, Algorithms, and Networks (ISPAN)
+Quantum Information Processing
+RAIRO - Theoretical Informatics and Applications
+Random Structures and Algorithms
+Real-Time Systems
+Revue d
+Analyse Num
+rique et de Th
+orie de l
+Approximation
+Russian Mathematics (Iz. VUZ)
+Soft Computing - A Fusion of Foundations, Methodologies and Applications
+Statistics and Computing
+Stochastics and Dynamics
+Theoretical Computer Science
+Theory of Computing Systems
+Advances in High Performance Computing Series
+Clinical Journal of Women
+s Health
+Computational Engineering Series
+International Journal of Environmental Studies, The
+Mathematical Algorithms
+The Journal of VLSI Signal Processing
